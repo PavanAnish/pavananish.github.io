@@ -1,0 +1,49 @@
+{
+  "name": "Pavan V Anish",
+  "nameEn": "Pavan V Anish",
+  "title": "Engineering Student & Aspiring AI Developer",
+  "email": "pavan@example.com",
+  "location": "Kerala, India",
+  "bio": "Engineering student focused on building practical, real-world tech solutions. Deeply interested in Artificial Intelligence, automation systems, and full-stack development. I focus on creating tangible projects that solve real problems — from AI-powered chatbots to workflow automations and containerized deployments. My ambition is to build intelligent systems that combine automation and AI to create high-impact solutions.",
+  "avatar": "https://ui-avatars.com/api/?name=Pavan+V+Anish&size=256&background=FF8C00&color=fff&bold=true",
+  "languages": [
+    {
+      "name": "English",
+      "level": "Professional",
+      "description": "Professional working proficiency"
+    },
+    {
+      "name": "Malayalam",
+      "level": "Native",
+      "description": "Native speaker"
+    },
+    {
+      "name": "Hindi",
+      "level": "Conversational",
+      "description": "Conversational proficiency"
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/pavan-v-anish",
+      "icon": "github",
+      "description": "Projects and code repositories"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/pavan-v-anish",
+      "icon": "linkedin",
+      "description": "Professional network and career information"
+    }
+  ],
+  "interests": [
+    "Artificial Intelligence",
+    "Automation Systems",
+    "Backend Development",
+    "Full-Stack Development",
+    "Docker & Containerization",
+    "Workflow Automation",
+    "Scalable System Design"
+  ]
+}

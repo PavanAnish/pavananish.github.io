@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ajce-engineering",
+    "school": "Amal Jyothi College of Engineering",
+    "schoolEn": "Amal Jyothi College of Engineering",
+    "schoolAbbr": "AJCE",
+    "degree": "Bachelor",
+    "major": "Engineering",
+    "location": "Kanjirappally, Kerala, India",
+    "startYear": "2023",
+    "endYear": "Present",
+    "logo": "https://ui-avatars.com/api/?name=AJCE&size=100&background=4A90E2&color=fff&bold=true",
+    "achievements": [
+      "Building practical AI and automation projects alongside academics",
+      "Strengthening foundation in Java OOP and backend development"
+    ]
+  },
+  {
+    "id": "saps-anakkal",
+    "school": "SAPS Anakkal",
+    "schoolEn": "SAPS Anakkal",
+    "schoolAbbr": "SAPS",
+    "degree": "Primary & Secondary",
+    "major": "General Education",
+    "location": "Anakkal, Kerala, India",
+    "startYear": "2011",
+    "endYear": "2023",
+    "logo": "https://ui-avatars.com/api/?name=SAPS&size=100&background=50C878&color=fff&bold=true"
+  }
+]

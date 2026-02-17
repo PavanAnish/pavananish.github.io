@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ai-projects",
+    "title": "AI Developer (Self-Directed)",
+    "company": "Personal Projects",
+    "companyId": "personal",
+    "companyLogo": "https://ui-avatars.com/api/?name=AI&size=100&background=9B59B6&color=fff&bold=true",
+    "department": "Artificial Intelligence",
+    "location": "Kerala, India",
+    "start": "2024",
+    "end": "Present",
+    "summary": "Building AI-powered applications and tools, including PDF-based chatbots using modern AI models and intelligent automation systems.",
+    "responsibilities": [
+      "Developed AI-powered PDF chatbot for interactive document Q&A",
+      "Integrated modern AI models into practical applications",
+      "Experimented with different AI architectures and APIs",
+      "Focused on creating user-friendly AI tools that solve real problems"
+    ],
+    "techStack": [
+      "Python", "AI Models", "API Integration", "Docker"
+    ],
+    "achievements": [
+      "Built a functional PDF chatbot with AI-powered responses",
+      "Gained hands-on experience integrating AI APIs into applications"
+    ]
+  },
+  {
+    "id": "automation-projects",
+    "title": "Automation Engineer (Self-Directed)",
+    "company": "Personal Projects",
+    "companyId": "personal",
+    "companyLogo": "https://ui-avatars.com/api/?name=AUTO&size=100&background=4A90E2&color=fff&bold=true",
+    "department": "Workflow Automation",
+    "location": "Kerala, India",
+    "start": "2024",
+    "end": "Present",
+    "summary": "Designing and implementing workflow automations using n8n to streamline repetitive tasks and create efficient data processing pipelines.",
+    "responsibilities": [
+      "Designed automated workflows using n8n for various use cases",
+      "Integrated multiple services and APIs into cohesive automation pipelines",
+      "Set up containerized deployments using Docker for automation tools",
+      "Documented workflows and automation patterns for future reference"
+    ],
+    "techStack": [
+      "n8n", "Docker", "API Integrations", "Git", "GitHub"
+    ],
+    "achievements": [
+      "Successfully automated multiple repetitive workflows",
+      "Built reusable automation templates for common tasks"
+    ]
+  },
+  {
+    "id": "learning-journey",
+    "title": "Engineering Student",
+    "company": "Amal Jyothi College of Engineering",
+    "companyId": "ajce",
+    "companyLogo": "https://ui-avatars.com/api/?name=AJCE&size=100&background=50C878&color=fff&bold=true",
+    "department": "Engineering",
+    "location": "Kanjirappally, Kerala, India",
+    "start": "2023",
+    "end": "Present",
+    "summary": "Pursuing engineering degree while building practical skills in software development, AI integration, and system design through self-directed projects and continuous learning.",
+    "responsibilities": [
+      "Strengthening foundation in Java OOP concepts and backend logic",
+      "Learning scalable system design principles",
+      "Building projects that combine academic knowledge with practical application",
+      "Practicing disciplined, consistent learning and project development"
+    ],
+    "techStack": [
+      "Java", "Python", "C", "MySQL", "Git", "Docker"
+    ],
+    "achievements": [
+      "Consistently building and shipping personal projects alongside academics",
+      "Developing a strong foundation in multiple programming paradigms"
+    ]
+  }
+]

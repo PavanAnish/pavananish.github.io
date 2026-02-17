@@ -1,0 +1,254 @@
+[
+  {
+    "id": "pdf-chatbot",
+    "title": "PDF Chatbot",
+    "subtitle": "AI-Powered Document Q&A Tool",
+    "category": "AI/ML",
+    "status": "Completed",
+    "featured": true,
+    "opensource": true,
+    "images": [],
+    "description": "An interactive chatbot that allows users to upload PDF documents and ask questions about their content using modern AI models.",
+    "longDescription": "Built a PDF-based chatbot that leverages modern AI language models to enable conversational interaction with PDF documents. Users can upload any PDF and ask natural language questions, receiving accurate and contextual answers drawn directly from the document content. The system processes documents through text extraction, chunking, and AI-driven comprehension to deliver precise responses.",
+    "technologies": [
+      "Python",
+      "AI Models",
+      "API Integration",
+      "PDF Processing"
+    ],
+    "features": [
+      "PDF document upload and parsing",
+      "Natural language question answering",
+      "Context-aware AI responses",
+      "Support for multiple document formats",
+      "Clean and intuitive user interface"
+    ],
+    "challenges": [
+      "Handling large PDF documents efficiently",
+      "Maintaining context across long documents",
+      "Ensuring accurate AI-generated responses",
+      "Processing different PDF formats and layouts"
+    ],
+    "solutions": [
+      "Implemented document chunking for efficient processing",
+      "Used context-window management for long documents",
+      "Integrated robust AI models for accurate comprehension",
+      "Built flexible PDF parsing pipeline"
+    ],
+    "results": [
+      "Successfully enables interactive Q&A with PDF documents",
+      "Accurate responses for a variety of document types",
+      "Clean, user-friendly interface for document interaction"
+    ],
+    "timeline": {
+      "start": "2025",
+      "duration": "Ongoing"
+    },
+    "role": "Solo Developer",
+    "links": {
+      "github": "https://github.com/pavan-v-anish"
+    }
+  },
+  {
+    "id": "n8n-workflow-automation",
+    "title": "n8n Workflow Automations",
+    "subtitle": "Automated Task & Data Pipelines",
+    "category": "Tools",
+    "status": "In Progress",
+    "featured": true,
+    "opensource": true,
+    "images": [],
+    "description": "A collection of workflow automations built using n8n to streamline repetitive tasks, integrate services, and create efficient data processing pipelines.",
+    "longDescription": "Designed and implemented multiple workflow automations using n8n, a powerful workflow automation tool. These automations connect various services through API integrations, handle data transformations, and streamline repetitive processes. The workflows range from simple notification systems to complex multi-step data processing pipelines, all deployed in containerized environments using Docker.",
+    "technologies": [
+      "n8n",
+      "Docker",
+      "API Integrations",
+      "Git"
+    ],
+    "features": [
+      "Multi-service API integration workflows",
+      "Automated data processing pipelines",
+      "Containerized deployment with Docker",
+      "Reusable workflow templates",
+      "Error handling and retry mechanisms"
+    ],
+    "challenges": [
+      "Connecting diverse APIs with different authentication methods",
+      "Handling data transformation between services",
+      "Ensuring workflow reliability and error recovery",
+      "Managing Docker deployments for automation services"
+    ],
+    "solutions": [
+      "Built modular workflow components for reusability",
+      "Implemented error handling and notification systems",
+      "Used Docker Compose for reliable deployments",
+      "Created documentation for workflow patterns"
+    ],
+    "results": [
+      "Successfully automated multiple repetitive tasks",
+      "Reduced manual effort through intelligent automation",
+      "Built reusable templates for common automation patterns"
+    ],
+    "timeline": {
+      "start": "2024",
+      "duration": "Ongoing"
+    },
+    "role": "Solo Developer",
+    "links": {
+      "github": "https://github.com/pavan-v-anish"
+    }
+  },
+  {
+    "id": "docker-deployment-setup",
+    "title": "Docker Deployment Configurations",
+    "subtitle": "Containerized Application Deployments",
+    "category": "DevOps",
+    "status": "Completed",
+    "featured": true,
+    "opensource": true,
+    "images": [],
+    "description": "Containerized deployment configurations for various applications using Docker, enabling consistent and reproducible environments.",
+    "longDescription": "Created comprehensive Docker deployment configurations for various applications and services. This project encompasses Docker Compose setups, Dockerfiles, and deployment scripts that enable consistent, reproducible, and portable application environments. The configurations cover web applications, automation tools, and development environments.",
+    "technologies": [
+      "Docker",
+      "Docker Compose",
+      "Git",
+      "Shell Scripting"
+    ],
+    "features": [
+      "Multi-container Docker Compose configurations",
+      "Optimized Dockerfiles for different applications",
+      "Environment-specific configurations",
+      "Automated deployment scripts",
+      "Volume management for persistent data"
+    ],
+    "challenges": [
+      "Optimizing Docker image sizes",
+      "Managing multi-container networking",
+      "Handling persistent data across container restarts",
+      "Cross-platform compatibility"
+    ],
+    "solutions": [
+      "Used multi-stage builds for smaller images",
+      "Configured Docker networks for service communication",
+      "Implemented named volumes for data persistence",
+      "Tested configurations across different environments"
+    ],
+    "results": [
+      "Consistent and reproducible deployment environments",
+      "Simplified application deployment process",
+      "Improved development workflow with containerization"
+    ],
+    "timeline": {
+      "start": "2024",
+      "end": "2025",
+      "duration": "1 year"
+    },
+    "role": "Solo Developer",
+    "links": {
+      "github": "https://github.com/pavan-v-anish"
+    }
+  },
+  {
+    "id": "ai-powered-app",
+    "title": "AI-Powered Application",
+    "subtitle": "Intelligent System with AI Integration",
+    "category": "AI/ML",
+    "status": "In Progress",
+    "featured": true,
+    "opensource": true,
+    "images": [],
+    "description": "An AI-powered application that combines modern language models with practical functionality to solve real-world problems.",
+    "longDescription": "Developing an AI-powered application that integrates modern artificial intelligence models to deliver intelligent features and insights. The project focuses on practical AI applications that go beyond simple demonstrations, aiming to create tools that provide genuine value through smart automation and natural language understanding.",
+    "technologies": [
+      "Python",
+      "AI Models",
+      "API Integration",
+      "Docker",
+      "Git"
+    ],
+    "features": [
+      "AI model integration for intelligent features",
+      "Natural language processing capabilities",
+      "RESTful API backend",
+      "Containerized deployment",
+      "Scalable architecture design"
+    ],
+    "challenges": [
+      "Selecting optimal AI models for the use case",
+      "Managing API rate limits and costs",
+      "Designing an intuitive user experience around AI features",
+      "Ensuring response accuracy and reliability"
+    ],
+    "solutions": [
+      "Evaluated multiple AI providers for best fit",
+      "Implemented caching and request optimization",
+      "Designed iterative UI based on user feedback",
+      "Built validation layers for AI outputs"
+    ],
+    "results": [
+      "Functional AI-powered application prototype",
+      "Practical demonstration of AI integration skills",
+      "Foundation for future AI project development"
+    ],
+    "timeline": {
+      "start": "2025",
+      "duration": "Ongoing"
+    },
+    "role": "Solo Developer",
+    "links": {
+      "github": "https://github.com/pavan-v-anish"
+    }
+  },
+  {
+    "id": "portfolio-website",
+    "title": "Portfolio Website",
+    "subtitle": "Personal Developer Portfolio",
+    "category": "Web Development",
+    "status": "Completed",
+    "featured": false,
+    "opensource": true,
+    "images": [],
+    "description": "A modern, terminal-themed developer portfolio website built with Next.js and Tailwind CSS to showcase projects and skills.",
+    "longDescription": "Designed and customized a modern developer portfolio website with a unique terminal/hacker aesthetic. Built with Next.js and Tailwind CSS, the site features animated terminal commands, a scrolling tech stack background, and responsive design. It serves as a central hub to showcase projects, experience, skills, and education.",
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "React"
+    ],
+    "features": [
+      "Terminal-themed interactive UI",
+      "Animated typing effects and command simulation",
+      "Responsive design for all devices",
+      "Dynamic project showcase",
+      "Scrolling tech stack background animation"
+    ],
+    "challenges": [
+      "Creating an engaging terminal aesthetic",
+      "Implementing smooth animations without performance issues",
+      "Ensuring responsive design across all screen sizes",
+      "Organizing project and experience data effectively"
+    ],
+    "solutions": [
+      "Used CSS animations and React state for terminal effects",
+      "Optimized animations with requestAnimationFrame patterns",
+      "Built responsive layouts with Tailwind breakpoints",
+      "Structured data in JSON for easy content management"
+    ],
+    "results": [
+      "Professional online presence for showcasing work",
+      "Unique visual identity that stands out",
+      "Easy content management through JSON data files"
+    ],
+    "timeline": {
+      "start": "2025",
+      "duration": "Ongoing"
+    },
+    "role": "Solo Developer",
+    "links": {
+      "github": "https://github.com/pavan-v-anish"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "programming",
+    "name": "Programming Languages",
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Intermediate",
+        "description": "Object-Oriented Programming concepts, backend logic, and application development"
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "description": "AI model integration, scripting, automation, and backend development"
+      },
+      {
+        "name": "C",
+        "level": "Intermediate",
+        "description": "Systems programming and foundational programming concepts"
+      }
+    ]
+  },
+  {
+    "id": "ai-integration",
+    "name": "AI & Integration",
+    "skills": [
+      {
+        "name": "AI Model Integration",
+        "level": "Intermediate",
+        "description": "Integrating modern AI models into practical applications like PDF chatbots"
+      },
+      {
+        "name": "API Integrations",
+        "level": "Intermediate",
+        "description": "Connecting services and building integrations between platforms"
+      }
+    ]
+  },
+  {
+    "id": "automation-devops",
+    "name": "Automation & DevOps",
+    "skills": [
+      {
+        "name": "n8n Workflow Automation",
+        "level": "Intermediate",
+        "description": "Building automated workflows and process automation pipelines"
+      },
+      {
+        "name": "Docker",
+        "level": "Intermediate",
+        "description": "Containerized deployments and development environments"
+      },
+      {
+        "name": "Git & GitHub",
+        "level": "Intermediate",
+        "description": "Version control, collaboration, and project management"
+      }
+    ]
+  },
+  {
+    "id": "web-development",
+    "name": "Web Development",
+    "skills": [
+      {
+        "name": "Full-Stack Development",
+        "level": "Beginner",
+        "description": "Building end-to-end web applications with frontend and backend"
+      },
+      {
+        "name": "MySQL",
+        "level": "Beginner",
+        "description": "Relational database design and querying for web applications"
+      }
+    ]
+  }
+]
